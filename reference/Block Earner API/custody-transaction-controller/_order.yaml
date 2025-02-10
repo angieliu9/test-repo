@@ -1,0 +1,13 @@
+- getallstablecoinsearningbyuser
+- getallsavingsbyuser
+- getallreferralsbyuser
+- getallotcearningsbyuser
+- getuserloantransactions
+- getallcryptoinvestmentsbyuser
+- getallgoldearningsbyuser
+- getalldigitalassetsearningsbyuser
+- getallcashbyuser
+- getallaffiliaterewardsbyuser
+- getallcryptoinvestmentsbyb2buser
+- getallcashbyb2buser
+- getcustodytxscsv

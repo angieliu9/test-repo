@@ -1,0 +1,6 @@
+- validateclaimcodes
+- findtransferbyemailorphone
+- sendcrypto
+- getrecipientemailbyclaimtoken
+- getrecipientpersonaldetails
+- getrecenttransfers

@@ -1,0 +1,14 @@
+- getbpaydetail
+- updatebpaydetail
+- deletebpaydetail
+- getbpaydetail_1
+- updatebpaydetail_1
+- deletebpaydetail_1
+- bpaypay
+- bpaypay_1
+- getbpaydetails
+- createbpaydetail
+- getbpaydetails_1
+- createbpaydetail_1
+- getbillerinfo
+- getbillerinfo_1

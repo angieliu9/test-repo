@@ -1,0 +1,6 @@
+- getfiatwithdrawdetails
+- getwithdrawaldetails_1
+- createwithdrawaldetails
+- docryptowithdraw
+- getcryptowithdrawalfeedetails_1
+- deletewithdrawaldetail_1

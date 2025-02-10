@@ -1,0 +1,7 @@
+- verifysmstotp
+- verifytotpcode
+- updatemobilephonenumber
+- removeqrtotp
+- generateqrcode
+- sendsmstotp
+- isuser2faenabled

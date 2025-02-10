@@ -1,0 +1,5 @@
+- getcryptodepositwalletaddress
+- checkcryptodepositwalletaddress
+- getmultiplecryptodepositwalletaddress
+- getcryptodepositwalletaddressforuser
+- checkusercryptodepositwalletaddress
