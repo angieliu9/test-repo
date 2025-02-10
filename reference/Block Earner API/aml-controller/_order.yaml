@@ -10,3 +10,15 @@
 - getallblocks
 - getallblockedpayees
 - deleteamlrule
+- getallrules-1
+- updateamlrule-1
+- createamlrule-1
+- unblockuser-1
+- blockuser_1-1
+- unblockpayee-1
+- blockpayee-1
+- validaterequest-1
+- validateofficerequest-1
+- getallblocks-1
+- getallblockedpayees-1
+- deleteamlrule-1

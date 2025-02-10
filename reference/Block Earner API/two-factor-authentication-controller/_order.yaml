@@ -5,3 +5,10 @@
 - generateqrcode
 - sendsmstotp
 - isuser2faenabled
+- verifysmstotp-1
+- verifytotpcode-1
+- updatemobilephonenumber-1
+- removeqrtotp-1
+- generateqrcode-1
+- sendsmstotp-1
+- isuser2faenabled-1

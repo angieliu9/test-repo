@@ -4,3 +4,9 @@
 - getrecipientemailbyclaimtoken
 - getrecipientpersonaldetails
 - getrecenttransfers
+- validateclaimcodes-1
+- findtransferbyemailorphone-1
+- sendcrypto-1
+- getrecipientemailbyclaimtoken-1
+- getrecipientpersonaldetails-1
+- getrecenttransfers-1

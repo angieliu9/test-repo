@@ -12,3 +12,17 @@
 - createbpaydetail_1
 - getbillerinfo
 - getbillerinfo_1
+- getbpaydetail-1
+- updatebpaydetail-1
+- deletebpaydetail-1
+- getbpaydetail_1-1
+- updatebpaydetail_1-1
+- deletebpaydetail_1-1
+- bpaypay-1
+- bpaypay_1-1
+- getbpaydetails-1
+- createbpaydetail-1
+- getbpaydetails_1-1
+- createbpaydetail_1-1
+- getbillerinfo-1
+- getbillerinfo_1-1

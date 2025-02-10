@@ -3,3 +3,8 @@
 - finishverificationprocess
 - startverificationprocess
 - getmobileverificationstatus
+- finishregistrationprocess-1
+- startregistrationprocess-1
+- finishverificationprocess-1
+- startverificationprocess-1
+- getmobileverificationstatus-1
