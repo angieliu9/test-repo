@@ -1,7 +1,0 @@
----
-title: /v1/private/payment/bpay/biller/{billerCode}/info
-api:
-  file: openapi.json
-  operationId: getBillerInfo_1
-hidden: false
----
