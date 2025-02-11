@@ -4,4 +4,9 @@ api:
   file: openapi.json
   operationId: getBpayDetail
 hidden: false
+next:
+  pages:
+    - slug: getting-started
+      title: Getting Started
+      type: basic
 ---
