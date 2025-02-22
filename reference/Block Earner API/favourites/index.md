@@ -1,4 +1,0 @@
----
-title: Favourites
-hidden: false
----
